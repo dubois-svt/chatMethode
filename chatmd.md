@@ -6,15 +6,10 @@ rechercheContenu: false
 
 # Outils d'aide en Sciences
 
-Message initial qui apparaît au lancement du chatbot.
+Je suis un chatbot pour vous aider à créer ou analyser un documet en sciences.
 
-- il peut y avoir une liste dans le message
-- ou tout autre **formatage** en _Markdown_
-
-À la fin du message, on peut guider l'utilisateur avec des choix possibles
-
-1. [J'aimerais savoir comment rédiger une réponse du chatbot](Rédaction réponse)
-2. [Qu'est-ce qui déclenche l'apparition de cette réponse ?](Déclenchement)
+1. [Je recherche une méthode précise](A faire)
+2. [Je cherche à comprendre la consigne](Consigne)
 
 
 ## A Faire
@@ -29,8 +24,19 @@ Que faut-il faire ?
   6.[Analyser une expérience]
   7.[Comparer des données]
   8.[Analyser des documents]
+  9.[Constuire un modèle]
 
-## 
+## Consigne 
+
+Je ne comprends pas ce qu'il faut faire dans la consigne
+
+   1. Construire
+   2. Analyser
+   3. Expliquer
+   4. Justifier
+   5. Calculer
+   6. Indiquer
+   7. Modéliser
 
 ## Rédaction réponse
 
