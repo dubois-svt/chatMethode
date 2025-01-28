@@ -6,7 +6,7 @@ rechercheContenu: false
 
 # Outils d'aide en Sciences
 
-Je suis un chatbot pour vous aider à créer ou analyser un documet en sciences.
+Je suis un chatbot pour vous aider à créer ou analyser un document en sciences.
 
 1. [Je recherche une méthode précise](A faire)
 2. [Je cherche à comprendre la consigne](Consigne)
@@ -16,12 +16,12 @@ Je suis un chatbot pour vous aider à créer ou analyser un documet en sciences.
 
 Que faut-il faire ?
 
-  1.[lire un graphique]
-  2.[faire un graphique]
-  3.[faire un tableau]
-  4.[faire un dessin]
-  5.[faire un schéma fonctionnel]
-  6.[Analyser une expérience]
+  1.[lire un graphique](lire un graphgique)
+  2.[Réaliser un graphique](réaliser un graphique)
+  3.[Construire un tableau](construire un tableau)
+  4.[faire un dessin](faire un dessin)
+  5.[faire un schéma fonctionnel](faire un schéma fonctionnel)
+  6.[Analyser une expérience](analyser une expérience)
   7.[Comparer des données]
   8.[Analyser des documents]
   9.[Constuire un modèle]
